@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+<h2 align="left">Hi 👋! My name is Emine Gül ERZEN I graduated in electrical and electronics engineering. I am interested in electricity, electronics, data science, artificial intelligence. I continue to improve myself.
 
 ###
 
@@ -51,5 +51,3 @@
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/EGE-23/EGE-23/output/snake.svg" alt="Snake animation" />
-
-###
