@@ -1,3 +1,7 @@
+<br clear="both">
+
+<img align="right" height="300" src="https://tr.pinterest.com/pin/81909286961477983/"  />
+
 # 💫 About Me:
 Hi 👋! My name is Emine Gül ERZEN I graduated in electrical and electronics engineering. I am interested in electricity, electronics, data science, artificial intelligence. I continue to improve myself.
 
